@@ -1,0 +1,30 @@
+{
+  "name": "item-generator",
+  "version": "1.0.0",
+  "description": "Makes life easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CreepLand/item-generator.git"
+  },
+  "keywords": [
+    "item",
+    "rarity",
+    "yaml"
+  ],
+  "author": "Pabszito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CreepLand/item-generator/issues"
+  },
+  "homepage": "https://github.com/CreepLand/item-generator#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "js-yaml": "^4.1.0",
+    "prompt-sync": "^4.1.6",
+    "winston": "^3.3.3"
+  }
+}

@@ -1,0 +1,3 @@
+[submodule "item-contributions"]
+	path = item-contributions
+	url = https://github.com/CreepLand/item-contributions

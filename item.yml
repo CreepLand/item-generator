@@ -1,0 +1,67 @@
+items:
+  dummy: dummy
+  AIR:
+    rarity: COMMON
+  STONE:
+    rarity: RARE
+    attributes:
+      damage: 0
+      attackSpeed: 0
+      health: 0
+      defense: 0
+      cooldown: 0
+      feeds: 0
+  GRANITE:
+    rarity: COMMON
+    attributes:
+      damage: 0
+      attack_speed: 0
+      health: 0
+      defense: 0
+      cooldown: 0
+      feeds: 0
+  POLISHED_GRANITE:
+    rarity: COMMON
+    attributes:
+      damage: 0
+      attack_speed: 0
+      health: 0
+      defense: 0
+      cooldown: 0
+      feeds: 0
+  DIORITE:
+    rarity: COMMON
+    attributes:
+      damage: 0
+      attack_speed: 0
+      health: 0
+      defense: 0
+      cooldown: 0
+      feeds: 0
+  POLISHED_DIORITE:
+    rarity: COMMON
+    attributes:
+      damage: 0
+      attack_speed: 0
+      health: 0
+      defense: 0
+      cooldown: 0
+      feeds: 0
+  ANDESITE:
+    rarity: COMMON
+    attributes:
+      damage: 0
+      attack_speed: 0
+      health: 0
+      defense: 0
+      cooldown: 0
+      feeds: 0
+  POLISHED_ANDESITE:
+    rarity: COMMON
+    attributes:
+      damage: 0
+      attack_speed: 0
+      health: 0
+      defense: 0
+      cooldown: 0
+      feeds: 0

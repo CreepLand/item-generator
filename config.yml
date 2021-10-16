@@ -1,0 +1,2 @@
+config:
+  submodule: false # If this is false, the item generator will write to ./item.yml, if not, it will write to ./item-contributions/item.yml
