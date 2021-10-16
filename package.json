@@ -13,6 +13,8 @@
   "keywords": [
     "item",
     "rarity",
+    "attributes",
+    "minecraft",
     "yaml"
   ],
   "author": "Pabszito",
@@ -24,7 +26,6 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "js-yaml": "^4.1.0",
-    "prompt-sync": "^4.1.6",
-    "winston": "^3.3.3"
+    "prompt-sync": "^4.1.6"
   }
 }
