@@ -1,4 +1,4 @@
-# Item Generator
+# Item Generator [![CodeFactor](https://www.codefactor.io/repository/github/creepland/item-generator/badge/master)](https://www.codefactor.io/repository/github/creepland/item-generator/overview/master) ![Discord](https://img.shields.io/discord/702398630128255047?color=768AD4&label=discord) ![GitHub package.json version](https://img.shields.io/github/package-json/v/CreepLand/item-generator)
 Automatically generates a item.yml file for the [item contributions repostiory](https://github.com/CreepLand/item-contributions).
 ## Requeriments
 This project requires the following things:
