@@ -55,12 +55,12 @@ function stringify(obj) {
     // Default items are in another file because, well, they're a little long...
     const items = defaults.items;
     let skip = false;
+
     items.forEach(async(item) => {
         if(json.items && json.items[item]) {
             skip = true;
             console.info("[!] Skipping " + item + " as it is already defined.")
         } else {
-            
             if(skip) {
                 console.info("");
             }
