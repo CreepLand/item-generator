@@ -9,13 +9,19 @@ This project requires the following things:
 ## Setting up
 In order to set up the project, we need to clone it first, so run the following commands:
 ```sh
-git clone https://github.com/CreepLand/item-generator
+git clone https://github.com/CreepLand/item-generator --recurse-submodules
 cd item-generator
 ```
 Then, install the required dependencies:
 ```sh
 npm install
 ```
+### Submodules
+If you want to use the files directly from the [item-contributions repo](https://github.com/CreepLand/item-contributions) and didn't use `--recurse-submodules`, you can initialize them with the following commands:
+```sh
+git submodule init & git submodule update
+```
+
 ## Running
 When you finish setting up the project, you must decide between two options:
 
